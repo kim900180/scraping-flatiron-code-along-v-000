@@ -24,3 +24,5 @@ class Scraper
   end
 
 end
+
+Scraper.new_get_page
